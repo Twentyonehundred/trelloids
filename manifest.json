@@ -20,7 +20,7 @@
   ],
   "connectors": {
     "iframe": {
-      "url": "./index.html"
+      "url": "https://raw.githubusercontent.com/trello/power-up-template/gh-pages/index.html"
     }
   },
   "recommend": {
