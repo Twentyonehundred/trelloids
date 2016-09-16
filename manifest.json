@@ -1,11 +1,11 @@
 {
-  "name": "Show Card IDs",
-  "description": "Show unique ID's for each card",
-  "details": "A Power-Up to show unique ID's of each card. Using https://github.com/trello/power-up-template as a starting point.",
+  "name": "Static Template",
+  "description": "",
+  "details": "A static sample Power-Up hosted on GitHub pages. Feel free to fork [this repository](https://github.com/trello/power-up-template) as a starting point for your own Power-Up.",
   "icon": {
     "url": "./images/logo.png"
   },
-  "author": "MintTwist Ltd",
+  "author": "Trello Inc",
   "capabilities": [
     "attachment-sections",
     "attachment-thumbnail",
