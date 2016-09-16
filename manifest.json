@@ -1,0 +1,29 @@
+{
+  "name": "Show Card IDs",
+  "description": "Show unique ID's for each card",
+  "details": "A Power-Up to show unique ID's of each card. Using https://github.com/trello/power-up-template as a starting point.",
+  "icon": {
+    "url": "./images/logo.png"
+  },
+  "author": "MintTwist Ltd",
+  "capabilities": [
+    "attachment-sections",
+    "attachment-thumbnail",
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "card-from-url",
+    "format-url",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  },
+  "recommend": {
+    "urls": []
+  }
+}
